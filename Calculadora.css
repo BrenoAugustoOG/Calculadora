@@ -54,7 +54,7 @@ padding:-3px;
 all:unset;    
 height:60px;
 width:60px;
-background:#272727;
+background:#272728;
 border-radius:3px;
 color:white;
 display:flex;
@@ -70,9 +70,9 @@ font-size:17px;
 }
 
 .container .btns-box .eval-btn{
-background:#a400e5;        
+background:rgb(0, 134, 229);        
 }
 
 .container .btns-box .color-btn{
-color:#a400e5   ;  
+color:rgb(0, 134, 229);  
 }
