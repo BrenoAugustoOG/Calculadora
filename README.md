@@ -1,46 +1,46 @@
-Calculadora Responsiva - Breno Augusto
-Descrição
-Este projeto é uma calculadora responsiva desenvolvida para demonstrar minhas habilidades em HTML5, CSS3 e JavaScript. A calculadora foi projetada com um design moderno e responsivo, oferecendo uma experiência de usuário eficiente e agradável em diferentes dispositivos e tamanhos de tela.
+<h1>Calculadora Responsiva - Breno Augusto</h1>
+<h2>Descrição</h2>
+<p>Este projeto é uma calculadora responsiva desenvolvida para demonstrar minhas habilidades em HTML5, CSS3 e JavaScript. A calculadora foi projetada com um design moderno e responsivo, oferecendo uma experiência de usuário eficiente e agradável em diferentes dispositivos e tamanhos de tela.</p>
 
-Funcionalidades
-Design Responsivo
-A calculadora ajusta seu layout automaticamente para se adaptar a diferentes tamanhos de tela, garantindo uma experiência de usuário consistente em dispositivos móveis e desktops.
+<h2>Funcionalidades</h2>
+<h3>Design Responsivo</h3>
+<p>A calculadora ajusta seu layout automaticamente para se adaptar a diferentes tamanhos de tela, garantindo uma experiência de usuário consistente em dispositivos móveis e desktops.</p>
 
-Funcionalidade Completa
-Implementa operações matemáticas básicas, como adição, subtração, multiplicação e divisão, além de um botão de limpar e de igual para calcular os resultados.
+<h3>Funcionalidade Completa</h3>
+<p>Implementa operações matemáticas básicas, como adição, subtração, multiplicação e divisão, além de um botão de limpar e de igual para calcular os resultados.</p>
 
-Estilo Moderno
-Uso de CSS avançado para criar um design limpo e intuitivo, com botões e displays bem organizados e animações suaves para melhorar a interação do usuário.
+<h3>Estilo Moderno</h3>
+<p>Uso de CSS avançado para criar um design limpo e intuitivo, com botões e displays bem organizados e animações suaves para melhorar a interação do usuário.</p>
 
-Interatividade com JavaScript
-A lógica de cálculo e as interações da calculadora são gerenciadas com JavaScript, proporcionando uma experiência interativa e dinâmica.
+<h3>Interatividade com JavaScript</h3>
+<p>A lógica de cálculo e as interações da calculadora são gerenciadas com JavaScript, proporcionando uma experiência interativa e dinâmica.</p>
 
-Tecnologias Utilizadas
-HTML5
-Estruturação da interface da calculadora com elementos semânticos para garantir acessibilidade e organização.
+<h2>Tecnologias Utilizadas</h2>
+<h3>HTML5</h3>
+<p>Estruturação da interface da calculadora com elementos semânticos para garantir acessibilidade e organização.</p>
 
-CSS3
-Estilização da calculadora utilizando propriedades modernas como flexbox, grid layout, e animações para um visual atraente e responsivo.
+<h3>CSS3</h3>
+<p>Estilização da calculadora utilizando propriedades modernas como flexbox, grid layout, e animações para um visual atraente e responsivo.</p>
 
-JavaScript
-Implementação da lógica de cálculos e manipulação da interface, permitindo que a calculadora realize operações matemáticas e atualize o display em tempo real.
+<h3>JavaScript</h3>
+<p>Implementação da lógica de cálculos e manipulação da interface, permitindo que a calculadora realize operações matemáticas e atualize o display em tempo real.</p>
 
-Estrutura do Projeto
-Calculadora.html: O arquivo principal contendo a estrutura da calculadora.
-Calculadora.css: Arquivo CSS responsável pela estilização da calculadora.
-Calculadora.js: Arquivo JavaScript que gerencia a lógica de cálculos e interações.
+<h2>Estrutura do Projeto</h2>
+<p>Calculadora.html: O arquivo principal contendo a estrutura da calculadora.</p>
+<p>Calculadora.css: Arquivo CSS responsável pela estilização da calculadora.</p>
+<p>Calculadora.js: Arquivo JavaScript que gerencia a lógica de cálculos e interações.</p>
 
-Como Executar
-Faça o download do projeto ou clone este repositório.
+<h2>Como Executar</h2>
+git clone https://github.com/BrenoAugustoOG/Calculadora
 Abra o arquivo Calculadora.html em seu navegador.
 
-Melhorias Futuras
-Adição de funções matemáticas avançadas.
-Implementação de temas personalizados para a interface.
-Aperfeiçoamento da acessibilidade e suporte a múltiplos idiomas.
+<h2>Melhorias Futuras</h2>
+<p>Adição de funções matemáticas avançadas.</p>
+<p>Implementação de temas personalizados para a interface.</p>
+<p>Aperfeiçoamento da acessibilidade e suporte a múltiplos idiomas.</p>
 
-Contato
-Caso tenha alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
+<h2>Contato
+<p>Caso tenha alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:</p>
 
-LinkedIn
-GitHub
+<li><a href="https://linkedin.com/in/BrenoAugustoOG">LinkedIn</a></li>
+<li><a href="https://github.com/BrenoAugustoOG">GitHub</a></li>
