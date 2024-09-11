@@ -31,6 +31,7 @@
 <p>Calculadora.js: Arquivo JavaScript que gerencia a lógica de cálculos e interações.</p>
 
 <h2>Como Executar</h2>
+
 ```bash
     mkdir Calculadora
     cd Calculadora
