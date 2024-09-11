@@ -31,8 +31,12 @@
 <p>Calculadora.js: Arquivo JavaScript que gerencia a lógica de cálculos e interações.</p>
 
 <h2>Como Executar</h2>
-git clone https://github.com/BrenoAugustoOG/Calculadora
-Abra o arquivo Calculadora.html em seu navegador.
+```bash
+    mkdir Calculadora
+    cd Calculadora
+    git clone https://github.com/BrenoAugustoOG/Calculadora.git
+```
+<p>Abra o arquivo Calculadora.html em seu navegador.</p>
 
 <h2>Melhorias Futuras</h2>
 <p>Adição de funções matemáticas avançadas.</p>
